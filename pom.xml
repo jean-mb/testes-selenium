@@ -33,6 +33,13 @@
             <artifactId>selenium-support</artifactId>
             <version>4.12.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.webdriver</groupId>
+            <artifactId>webdriver-support</artifactId>
+            <version>0.9.7376</version>
+        </dependency>
+        <!-- Thanks for using https://jar-download.com -->
+
 
 
     </dependencies>
